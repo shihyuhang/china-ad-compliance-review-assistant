@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国广告合规审核助手"
+  short_description: "审核中国市场广告素材，识别法律风险并给出可执行的修改建议"
+  default_prompt: "使用 $china-ad-compliance-review 审核这份广告素材，先告诉我能不能发，再列出必改、需补证和建议项。"
